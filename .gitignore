@@ -2,10 +2,6 @@
 *.log
 logs/
 
-# Runtime data
-*.pid
-*.seed
-
 # Database
 *.db
 *.sqlite
