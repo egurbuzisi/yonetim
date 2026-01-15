@@ -5,6 +5,7 @@ logs/
 # Database
 *.db
 *.sqlite
+*.bak
 
 # Environment
 .env
@@ -15,7 +16,25 @@ logs/
 .vscode/
 *.suo
 *.user
+*.swp
 
 # OS
 Thumbs.db
 .DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# .NET
+bin/
+obj/
+*.pdb
+*.cache
+
+# Frontend build
+frontend/dist/
+
+# Temporary files
+*.tmp
+*.temp
