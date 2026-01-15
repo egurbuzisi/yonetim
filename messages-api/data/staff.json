@@ -1,0 +1,713 @@
+[
+  {
+    "id": "1",
+    "name": "Oktay YILMAZ",
+    "role": "baskan",
+    "title": "Başkan",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "2",
+    "name": "Ayşe ERTAN",
+    "role": "baskan_yrd",
+    "title": "Başkan Yardımcısı",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "3",
+    "name": "Ahmet USLU",
+    "role": "baskan_yrd",
+    "title": "Başkan Yardımcısı",
+    "phone": "",
+    "active": true,
+    "password": "11223344",
+    "isUser": true,
+    "party": "AK Parti"
+  },
+  {
+    "id": "4",
+    "name": "Gökhan YILDIZ",
+    "role": "baskan_yrd",
+    "title": "Başkan Yardımcısı",
+    "phone": "",
+    "active": true,
+    "party": "AK Parti"
+  },
+  {
+    "id": "5",
+    "name": "Kamil KANBUR",
+    "role": "baskan_yrd",
+    "title": "Başkan Yardımcısı",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "6",
+    "name": "Mehmet Ali YAZICI",
+    "role": "baskan_yrd",
+    "title": "Başkan Yardımcısı",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "7",
+    "name": "Merve EKMEKCİ",
+    "role": "ozel_kalem",
+    "title": "Özel Kalem Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "8",
+    "name": "Engin ÖKSÜZ",
+    "role": "mudur",
+    "title": "İnovasyon ve Teknoloji Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "9",
+    "name": "İbrahim TÜRKMEN",
+    "role": "mudur",
+    "title": "Zabıta Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "10",
+    "name": "Osman Hüray YILDIZ",
+    "role": "mudur",
+    "title": "Destek Hizmetleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "11",
+    "name": "Erim GÜNEŞ",
+    "role": "mudur",
+    "title": "Basın ve Yayın Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "12",
+    "name": "Orhan OCAK",
+    "role": "mudur",
+    "title": "Kültür ve Sosyal İşler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "13",
+    "name": "Coşkun KONCA",
+    "role": "mudur",
+    "title": "Gençlik ve Spor Hizmetleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "14",
+    "name": "Dilek GÜMÜŞ",
+    "role": "mudur",
+    "title": "İmar ve Şehircilik Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "15",
+    "name": "Sabahattin ÜNER",
+    "role": "mudur",
+    "title": "Plan ve Proje Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "16",
+    "name": "Süleyman Hilmi YETİMOĞLU",
+    "role": "mudur",
+    "title": "Fen İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "17",
+    "name": "Ayça KARAHAN",
+    "role": "mudur",
+    "title": "Kentsel Tasarım Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "18",
+    "name": "Muammer ÖZBEY",
+    "role": "mudur",
+    "title": "Koordinasyon İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "19",
+    "name": "Ufuk RADANLI",
+    "role": "mudur",
+    "title": "Strateji Geliştirme Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "20",
+    "name": "Murat ÖZ",
+    "role": "mudur",
+    "title": "Hukuk İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "21",
+    "name": "M.Akif ERGÜVENOĞLU",
+    "role": "mudur",
+    "title": "İklim Değişikliği ve Sıfır Atık Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "22",
+    "name": "Ali ENGİN",
+    "role": "mudur",
+    "title": "Temizlik İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "23",
+    "name": "Özgür ŞENOCAK",
+    "role": "mudur",
+    "title": "Ulaşım Hizmetleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "24",
+    "name": "Özkan SÖZERİ",
+    "role": "mudur",
+    "title": "Yapı Kontrol Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "25",
+    "name": "Abdurrahman KARYEL",
+    "role": "mudur",
+    "title": "Park ve Bahçeler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "26",
+    "name": "Ömer YAŞAR",
+    "role": "mudur",
+    "title": "Sosyal Destek Hizmetleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "27",
+    "name": "Ebru YÜKSEL",
+    "role": "mudur",
+    "title": "Kadın ve Aile Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "28",
+    "name": "Kahraman MENTEŞE",
+    "role": "mudur",
+    "title": "Sağlık İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "29",
+    "name": "Nedret ÇEKMECELİGİL",
+    "role": "mudur",
+    "title": "Veteriner İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "30",
+    "name": "Hilmi DOĞANAY",
+    "role": "mudur",
+    "title": "İnsan Kaynakları ve Eğitim Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "31",
+    "name": "Özmen BİLGİN",
+    "role": "mudur",
+    "title": "Yazı İşleri Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "32",
+    "name": "Feyyat ÖZDEMİR",
+    "role": "mudur",
+    "title": "Araştırma ve Geliştirme Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "33",
+    "name": "Ayşe ACAR",
+    "role": "mudur",
+    "title": "Kütüphane ve Müzeler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "34",
+    "name": "Fatih KAYA",
+    "role": "mudur",
+    "title": "Emlak ve İstimlak Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "35",
+    "name": "Ahmet Murat KAYA",
+    "role": "mudur",
+    "title": "Gelirler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "36",
+    "name": "Fatih POLAT",
+    "role": "mudur",
+    "title": "Dış İlişkiler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "37",
+    "name": "Hidayet ÇALI",
+    "role": "mudur",
+    "title": "Kırsal Hizmetler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "38",
+    "name": "Cüneyt GÖKTAŞ",
+    "role": "mudur",
+    "title": "Rehberlik ve Teftiş Kurulu Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "39",
+    "name": "Yusuf YILDIZ",
+    "role": "mudur",
+    "title": "İç Denetim Birimi Başkanlığı",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "40",
+    "name": "Emrah NASIR",
+    "role": "mudur",
+    "title": "Mali Hizmetler Müdürü",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "41",
+    "name": "Ömer Faruk TEMİZTÜRK",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "42",
+    "name": "Ali BOZKURT",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "43",
+    "name": "Selim YOLGEÇEN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "44",
+    "name": "Fuat ALPASLAN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "45",
+    "name": "Ecehan MERTOĞLU TAN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "46",
+    "name": "Bülent KANDEMİR",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "47",
+    "name": "Şakir EMİN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "48",
+    "name": "Ali ÇİFTÇİ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "49",
+    "name": "Cevdet KAMIŞ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "50",
+    "name": "Ahmet ARAS",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "51",
+    "name": "Fatma Zehra YEKELER",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "52",
+    "name": "Rüştü MAVİÇİÇEK",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "53",
+    "name": "Mücahit BOZKURT",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "54",
+    "name": "Mustafa KAYMAZ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "55",
+    "name": "Kübra Ezgi GÜLER",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "56",
+    "name": "Mert TİRYAKİ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "57",
+    "name": "Şenol ÇULCU",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "58",
+    "name": "Tuğba ÖZTÜRK",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "59",
+    "name": "Mehmet BAYRAM",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "60",
+    "name": "İdris ŞAHİNTAŞ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "AK Parti",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "61",
+    "name": "Alparslan KARAASLAN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "MHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "62",
+    "name": "Deniz YEYİN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "MHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "63",
+    "name": "Büşra BABÜR",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "MHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "64",
+    "name": "Aydın KAHVECİ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "MHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "65",
+    "name": "Fatih BALBAY",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "MHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "66",
+    "name": "Haldun FİLİZLİ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "BBP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "67",
+    "name": "Ali Haydar EFE",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "68",
+    "name": "Emel DUMAN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "69",
+    "name": "Zafer MİLLİ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "70",
+    "name": "Nimet YILDIZ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "71",
+    "name": "Yunus COŞKUN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "72",
+    "name": "Ali TOĞAN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "73",
+    "name": "Abdurrahim KAYAALP",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "74",
+    "name": "Aykut ERTÜRK",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "75",
+    "name": "Durhan GÜLER",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "76",
+    "name": "Kadir Kağan DEMİRBAŞ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "77",
+    "name": "İlknur ÇİÇEK",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "78",
+    "name": "Özgenur ERDİNÇ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "79",
+    "name": "İmran LEVENT",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "80",
+    "name": "Bülent SÖNMEZ",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "81",
+    "name": "Yavuz ERGÜL",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "82",
+    "name": "Servet ÇAĞIL",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  },
+  {
+    "id": "83",
+    "name": "Dinçer AYDIN",
+    "role": "meclis_uyesi",
+    "title": "Meclis Üyesi",
+    "party": "CHP",
+    "phone": "",
+    "active": true
+  }
+]

@@ -1,52 +1,58 @@
-# İş Yönetim Sistemi - Backend API
+# İş Yönetim Sistemi
 
-Yıldırım Belediyesi İş Takip Sistemi - .NET + SQL Server Backend
+Yıldırım Belediyesi İş Takip ve Yönetim Uygulaması
 
-## 🚀 Teknolojiler
+## Klasör Yapısı
 
-- **ASP.NET Core 9.0**
-- **Entity Framework Core**
-- **SQL Server**
-- **BCrypt** (Şifre hashleme)
+```
+IsYonetimFinal/
+├── backend/          # .NET API (port 5000)
+├── frontend/         # React Uygulaması (port 5173)
+├── start.bat         # Tek tıkla başlat
+└── README.md
+```
 
-## 📋 Modüller
+## Başlatma
 
-- Projeler - Proje takibi
-- Gündemler - Gündem yönetimi
-- Bekleyenler - Talep/randevu takibi
-- Program - Günlük/haftalık program
-- Cenazeler - Cenaze takip sistemi
-- Bildirimler - Kullanıcı bildirimleri
+### Kolay Yol
+`start.bat` dosyasına çift tıklayın.
 
-## ⚙️ Kurulum
+### Manuel
+1. Backend:
+   ```
+   cd backend
+   dotnet IsYonetimAPI.dll
+   ```
 
-### Gereksinimler
-- .NET Runtime 9.0
-- SQL Server (Express veya üstü)
+2. Frontend:
+   ```
+   cd frontend
+   npm run dev
+   ```
 
-### Başlatma
+## Erişim
 
-1. `appsettings.json` dosyasında SQL bağlantısını ayarlayın
-2. `BASLAT.bat` dosyasını çalıştırın
+- **Frontend:** http://localhost:5173
+- **Backend API:** http://localhost:5000
 
-## 🔐 Giriş Bilgileri
+## Giriş Bilgileri
 
-Şifre: `11223344` (tüm kullanıcılar)
+| Kullanıcı | Şifre | Rol |
+|-----------|-------|-----|
+| Oktay Yılmaz | 123456 | Başkan |
+| Merve Ekmekci | 123456 | Özel Kalem |
+| Ahmet Uslu | 123456 | Başkan Yardımcısı |
 
-- Oktay Yılmaz (Başkan)
-- Merve Ekmekci (Özel Kalem)
-- Ahmet Uslu (Başkan Yardımcısı)
+## Modüller
 
-## 📡 API
+- **Projeler** - Proje takibi ve ilerleme
+- **Gündem** - Gündem yönetimi
+- **Bekleyen** - Bekleyen işler
+- **Program** - Etkinlik takvimi
+- **Cenaze** - Cenaze hizmetleri
+- **Rapor** - Raporlama
 
-Base URL: `http://localhost:5000/api`
+## Yetki Sistemi
 
-| Endpoint | Açıklama |
-|----------|----------|
-| POST /api/auth/login | Giriş |
-| GET /api/users | Kullanıcılar |
-| GET/POST/PUT/DELETE /api/projects | Projeler |
-| GET/POST/PUT/DELETE /api/agendas | Gündemler |
-| GET/POST/PUT/DELETE /api/pendings | Bekleyenler |
-| GET/POST/PUT/DELETE /api/schedules | Program |
-| GET/POST/PUT/DELETE /api/cenazes | Cenazeler |
+- **Başkan/Özel Kalem:** Tüm verileri görür
+- **Diğerleri:** Sadece kendilerine paylaşılan veya oluşturdukları verileri görür

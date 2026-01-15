@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1768493230988",
+    "projectId": "255",
+    "userId": "1",
+    "userName": "Oktay Yılmaz",
+    "message": "Kurum görüşlerinden 2 kurum kaldı ( mapeg ve tarım )",
+    "createdAt": "2026-01-15T16:07:10.989Z",
+    "editedAt": "2026-01-15T16:07:41.036Z"
+  },
+  {
+    "id": "1768493278442",
+    "projectId": "255",
+    "userId": "1",
+    "userName": "Oktay Yılmaz",
+    "message": "proje ön taslak hazır plan ile birlikte uedaşa verilecek",
+    "createdAt": "2026-01-15T16:07:58.442Z"
+  },
+  {
+    "id": "1768493297055",
+    "projectId": "255",
+    "userId": "1",
+    "userName": "Oktay Yılmaz",
+    "message": "sondaj bitti analiz sonuçları ile birlikte meclise sunulacak",
+    "createdAt": "2026-01-15T16:08:17.055Z"
+  }
+]

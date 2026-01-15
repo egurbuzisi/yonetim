@@ -1,0 +1,38 @@
+[
+  {
+    "id": "talep",
+    "label": "Talep",
+    "icon": "MessageSquare",
+    "color": "blue"
+  },
+  {
+    "id": "dugun",
+    "label": "Düğün Daveti",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": "randevu",
+    "label": "Randevu",
+    "icon": "Calendar",
+    "color": "green"
+  },
+  {
+    "id": "gorev",
+    "label": "Görev",
+    "icon": "Briefcase",
+    "color": "purple"
+  },
+  {
+    "id": "diger",
+    "label": "Diğer",
+    "icon": "FileText",
+    "color": "gray"
+  },
+  {
+    "id": "cenaze",
+    "label": "Cenaze",
+    "icon": "CheckCircle",
+    "color": "gray"
+  }
+]

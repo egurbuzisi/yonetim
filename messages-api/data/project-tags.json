@@ -1,0 +1,202 @@
+[
+  {
+    "id": "afad_binasi",
+    "label": "AFAD Binası",
+    "color": "bg-blue-100 text-blue-700"
+  },
+  {
+    "id": "aile_sagligi_merkezi",
+    "label": "Aile Sağlığı Merkezi",
+    "color": "bg-purple-100 text-purple-700"
+  },
+  {
+    "id": "bereket_sofrasi",
+    "label": "Bereket Sofrası",
+    "color": "bg-amber-100 text-amber-700"
+  },
+  {
+    "id": "bina_guclendirmesi",
+    "label": "Bina Güçlendirmesi",
+    "color": "bg-orange-100 text-orange-700"
+  },
+  {
+    "id": "cephe_sagliklastirma",
+    "label": "Cephe Sağlıklaştırma",
+    "color": "bg-green-100 text-green-700"
+  },
+  {
+    "id": "e_spor",
+    "label": "E-Spor",
+    "color": "bg-emerald-100 text-emerald-700"
+  },
+  {
+    "id": "enerji_birim",
+    "label": "Enerji Birim",
+    "color": "bg-pink-100 text-pink-700"
+  },
+  {
+    "id": "festival",
+    "label": "Festival",
+    "color": "bg-indigo-100 text-indigo-700"
+  },
+  {
+    "id": "ges_projesi",
+    "label": "GES Projesi",
+    "color": "bg-cyan-100 text-cyan-700"
+  },
+  {
+    "id": "hali_saha",
+    "label": "Halı Saha",
+    "color": "bg-rose-100 text-rose-700"
+  },
+  {
+    "id": "hayvan_barinagi",
+    "label": "Hayvan Barınağı",
+    "color": "bg-teal-100 text-teal-700"
+  },
+  {
+    "id": "kamp_merkezi",
+    "label": "Kamp Merkezi",
+    "color": "bg-violet-100 text-violet-700"
+  },
+  {
+    "id": "kapali_pazar_alani",
+    "label": "Kapalı Pazar Alanı",
+    "color": "bg-lime-100 text-lime-700"
+  },
+  {
+    "id": "kent_parki",
+    "label": "Kent Parkı",
+    "color": "bg-fuchsia-100 text-fuchsia-700"
+  },
+  {
+    "id": "kentsel_donusum",
+    "label": "Kentsel Dönüşüm",
+    "color": "bg-sky-100 text-sky-700"
+  },
+  {
+    "id": "koru",
+    "label": "Koru",
+    "color": "bg-blue-100 text-blue-700"
+  },
+  {
+    "id": "kuran_kursu",
+    "label": "Kuran Kursu",
+    "color": "bg-purple-100 text-purple-700"
+  },
+  {
+    "id": "kultur_merkezi",
+    "label": "Kültür Merkezi",
+    "color": "bg-amber-100 text-amber-700"
+  },
+  {
+    "id": "manej_alani",
+    "label": "Manej Alanı",
+    "color": "bg-orange-100 text-orange-700"
+  },
+  {
+    "id": "mesire_alani",
+    "label": "Mesire Alanı",
+    "color": "bg-green-100 text-green-700"
+  },
+  {
+    "id": "okul",
+    "label": "Okul",
+    "color": "bg-emerald-100 text-emerald-700"
+  },
+  {
+    "id": "orman_parki",
+    "label": "Orman Parkı",
+    "color": "bg-pink-100 text-pink-700"
+  },
+  {
+    "id": "park",
+    "label": "Park",
+    "color": "bg-indigo-100 text-indigo-700"
+  },
+  {
+    "id": "restorasyon",
+    "label": "Restorasyon",
+    "color": "bg-cyan-100 text-cyan-700"
+  },
+  {
+    "id": "seyir_terasi",
+    "label": "Seyir Terası",
+    "color": "bg-rose-100 text-rose-700"
+  },
+  {
+    "id": "sosyal_tesisler",
+    "label": "Sosyal Tesisler",
+    "color": "bg-teal-100 text-teal-700"
+  },
+  {
+    "id": "spor_tesisi",
+    "label": "Spor Tesisi",
+    "color": "bg-violet-100 text-violet-700"
+  },
+  {
+    "id": "spor_tesisi_yenileme",
+    "label": "Spor Tesisi Yenileme",
+    "color": "bg-lime-100 text-lime-700"
+  },
+  {
+    "id": "sporcu_sagligi_merkezi",
+    "label": "Sporcu Sağlığı Merkezi",
+    "color": "bg-fuchsia-100 text-fuchsia-700"
+  },
+  {
+    "id": "soylesi",
+    "label": "Söyleşi",
+    "color": "bg-sky-100 text-sky-700"
+  },
+  {
+    "id": "sifir_atik_proje",
+    "label": "Sıfır Atık Proje",
+    "color": "bg-blue-100 text-blue-700"
+  },
+  {
+    "id": "teknopark",
+    "label": "Teknopark",
+    "color": "bg-purple-100 text-purple-700"
+  },
+  {
+    "id": "tenis_kort",
+    "label": "Tenis Kort",
+    "color": "bg-amber-100 text-amber-700"
+  },
+  {
+    "id": "yarisma",
+    "label": "Yarışma",
+    "color": "bg-orange-100 text-orange-700"
+  },
+  {
+    "id": "yildirim_kart",
+    "label": "Yıldırım Kart",
+    "color": "bg-green-100 text-green-700"
+  },
+  {
+    "id": "ziyaretci_merkezi",
+    "label": "Ziyaretçi Merkezi",
+    "color": "bg-emerald-100 text-emerald-700"
+  },
+  {
+    "id": "carsi",
+    "label": "Çarşı",
+    "color": "bg-pink-100 text-pink-700"
+  },
+  {
+    "id": "cocuk_koyu",
+    "label": "Çocuk Köyü",
+    "color": "bg-indigo-100 text-indigo-700"
+  },
+  {
+    "id": "i_nternet_erisim_noktalari",
+    "label": "İnternet Erişim Noktaları",
+    "color": "bg-cyan-100 text-cyan-700"
+  },
+  {
+    "id": "santiye_binasi",
+    "label": "Şantiye Binası",
+    "color": "bg-rose-100 text-rose-700"
+  }
+]
